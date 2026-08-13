@@ -20,7 +20,7 @@ UI设计采用科幻感十足的[FUI风格](https://zhuanlan.zhihu.com/p/9420585
 
 XBox-One宣传视频（2014）：
 
-[![XBox-One宣传视频](https://www.loywong.com/project/img/pc-mercury/hero.jpg)](https://www.loywong.com/project/img/pc-mercury/footage-from-chinaJoy-XboxOne.mp4)
+[点击观看视频](https://www.loywong.com/project/img/pc-mercury/footage-from-chinaJoy-XboxOne.mp4)
 
 ![ui-style](https://www.loywong.com/project/img/pc-mercury/ui-style.jpg)
 
