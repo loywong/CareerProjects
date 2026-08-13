@@ -4,4 +4,4 @@
 - 《Slots Crushing》
 - 《发条英雄》
 - 《萌神弹⽃⼠》
-- 《⽕源计划》
+- [《火源计划》](./Project-Mercury.markdown)
