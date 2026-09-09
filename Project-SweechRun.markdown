@@ -3,7 +3,7 @@
 **时间：** 2024/07  
 **公司：** 上海璨梓科技  
 **技术：** [IDE] Unity2021.3.56f2，VSCode；[Language] C#；[Else] URP、Addressables、HybridCLR、ET Framework、MongoDB、A* Pathfinding Project、FMOD、ShaderLab、Firebase、ThinkingData、WeTest、Android/iOS  
-**框架：** [LowoUN][ET-Server]  
+**框架：** LowoUN，[ET-Server](https://github.com/egametang/ET)  
 **状态：** 上线（[https://play.google.com/store/apps/details?id=com.sweech.sweechrun.google](https://play.google.com/store/apps/details?id=com.sweech.sweechrun.google)）
 
 <p align="center">
