@@ -11,16 +11,16 @@
 
 后来由于资方组织架构的重大调整和规划管理上的一些原因，团队后来重组了。
 
-![loading](https://www.loywong.com/project/img/mobile-dashsaga/loading.jpg)
+![loading](https://github.com/loywong/CareerProjects/blob/main/DashSaga/loading.jpg)
 
-![splash](https://www.loywong.com/project/img/mobile-dashsaga/splash.jpg)
+![splash](https://github.com/loywong/CareerProjects/blob/main/DashSaga/splash.jpg)
 
-![guide1](https://www.loywong.com/project/img/mobile-dashsaga/guide1.jpg)
+![guide1](https://github.com/loywong/CareerProjects/blob/main/DashSaga/guide1.jpg)
 
-![guide2](https://www.loywong.com/project/img/mobile-dashsaga/guide2.jpg)
+![guide2](https://github.com/loywong/CareerProjects/blob/main/DashSaga/guide2.jpg)
 
-![lobby](https://www.loywong.com/project/img/mobile-dashsaga/lobby.jpg)
+![lobby](https://github.com/loywong/CareerProjects/blob/main/DashSaga/lobby.jpg)
 
-![map-campaign2](https://www.loywong.com/project/img/mobile-dashsaga/map-campaign2.jpg)
+![map-campaign2](https://github.com/loywong/CareerProjects/blob/main/DashSaga/map-campaign2.jpg)
 
-![battle](https://www.loywong.com/project/img/mobile-dashsaga/battle.jpg)
+![battle](https://github.com/loywong/CareerProjects/blob/main/DashSaga/battle.jpg)
