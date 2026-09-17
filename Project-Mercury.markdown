@@ -14,14 +14,14 @@
 
 UI设计采用科幻感十足的[FUI风格](https://zhuanlan.zhihu.com/p/94205859)，开发框架则采用我搭建的基于ActionScript 3.0的框架[LowoUI-AS](https://github.com/loywong/LowoUI-AS)。最终呈现出表现丰富的强交互式体验（早期版本的美术界面和交互动画都由我设计与制作，后续美术同事也延续了我设定的风格）。
 
-![logo](https://github.com/loywong/CareerProjects/blob/main/Mercury/logo.jpg)
+![logo](Mercury/logo.jpg)
 
-![hero](https://github.com/loywong/CareerProjects/blob/main/Mercury/hero.jpg)
+![hero](Mercury/hero.jpg)
 
-XBox-One宣传视频（2014）：[点击观看](https://github.com/loywong/CareerProjects/blob/main/Mercury/footage-from-chinaJoy-XboxOne.mp4)
+XBox-One宣传视频（2014）：[点击观看](Mercury/footage-from-chinaJoy-XboxOne.mp4)
 
-![ui-style](https://github.com/loywong/CareerProjects/blob/main/Mercury/ui-style.jpg)
+![ui-style](Mercury/ui-style.jpg)
 
-![weapons](https://github.com/loywong/CareerProjects/blob/main/Mercury/weapons.jpg)
+![weapons](Mercury/weapons.jpg)
 
-![online-test](https://github.com/loywong/CareerProjects/blob/main/Mercury/online-test.jpg)
+![online-test](Mercury/online-test.jpg)

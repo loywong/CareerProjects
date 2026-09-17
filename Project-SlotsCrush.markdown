@@ -18,18 +18,18 @@
 
 **谷歌商店页面**
 
-![googleplay-main](https://github.com/loywong/CareerProjects/blob/main/SlotsCrush/googleplay-main.jpg)
+![googleplay-main](SlotsCrush/googleplay-main.jpg)
 
-**宣传视频：** [点击观看](https://github.com/loywong/CareerProjects/blob/main/SlotsCrush/publicity.mp4)
+**宣传视频：** [点击观看](SlotsCrush/publicity.mp4)
 
 **官方网站**
 
-![official-site](https://github.com/loywong/CareerProjects/blob/main/SlotsCrush/official-site.jpg)
+![official-site](SlotsCrush/official-site.jpg)
 
-![startup](https://github.com/loywong/CareerProjects/blob/main/SlotsCrush/startup.jpg)
+![startup](SlotsCrush/startup.jpg)
 
-![lobby2](https://github.com/loywong/CareerProjects/blob/main/SlotsCrush/lobby2.jpg)
+![lobby2](SlotsCrush/lobby2.jpg)
 
-![lobby1](https://github.com/loywong/CareerProjects/blob/main/SlotsCrush/lobby1_.jpg)
+![lobby1](SlotsCrush/lobby1_.jpg)
 
-![level1](https://github.com/loywong/CareerProjects/blob/main/SlotsCrush/level1.jpg)
+![level1](SlotsCrush/level1.jpg)

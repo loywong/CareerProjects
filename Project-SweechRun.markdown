@@ -7,21 +7,21 @@
 **状态：** 上线（[https://play.google.com/store/apps/details?id=com.sweech.sweechrun.google](https://play.google.com/store/apps/details?id=com.sweech.sweechrun.google)）
 
 <p align="center">
-  <img src="https://github.com/loywong/CareerProjects/blob/main/SweechRun/icon_512.png"
+  <img src="SweechRun/icon_512.png"
        alt="Sweech Run"
        width="280">
 </p>
 
 一款3D 动作 RPG 手游，融合刷宝、Roguelike 成长、动态关卡与多人在线交互玩法。
 
-其他多人实时PVP，宠物，家园系，公会系统开发中。
+宠物，家园，公会系统等更多玩法开发中。
 
-![game-play](https://github.com/loywong/CareerProjects/blob/main/SweechRun/banner_eng_01.jpg)
+![game-play](SweechRun/banner_eng_01.jpg)
 
-![game-play](https://github.com/loywong/CareerProjects/blob/main/SweechRun/banner_eng_02.jpg)
+![game-play](SweechRun/banner_eng_02.jpg)
 
-![game-play](https://github.com/loywong/CareerProjects/blob/main/SweechRun/banner_eng_03.jpg)
+![game-play](SweechRun/banner_eng_03.jpg)
 
-![game-play](https://github.com/loywong/CareerProjects/blob/main/SweechRun/banner_eng_04.jpg)
+![game-play](SweechRun/banner_eng_04.jpg)
 
-![game-play](https://github.com/loywong/CareerProjects/blob/main/SweechRun/banner_eng_05.jpg)
+![game-play](SweechRun/banner_eng_05.jpg)

@@ -16,10 +16,10 @@
 
 另外通过模板化方式生成代码，对于经验较浅的开发人员来说，实现功能更像是在做填空游戏。
 
-![slogan](https://github.com/loywong/CareerProjects/blob/main/UnlimitedTower/slogan.jpg)
+![slogan](UnlimitedTower/slogan.jpg)
 
-**宣传视频：** [点击观看](https://github.com/loywong/CareerProjects/blob/main/UnlimitedTower/publicity.mp4)
+**宣传视频：** [点击观看](UnlimitedTower/publicity.mp4)
 
-![s1](https://github.com/loywong/CareerProjects/blob/main/UnlimitedTower/s1.jpg)
+![s1](UnlimitedTower/s1.jpg)
 
-![s2](https://github.com/loywong/CareerProjects/blob/main/UnlimitedTower/s2.jpg)
+![s2](UnlimitedTower/s2.jpg)
